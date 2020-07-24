@@ -5,7 +5,7 @@ Bora Bengu e2171346
 README:
 
 Description:
-This program performs UDP based reliable data transfer (RDT) with multi homing and pipelining. Unfortunately it cannot detect broken links.
+This program performs UDP based reliable data transfer (RDT) with multi homing and pipelining.
 
 These programs are written in java, source files are in src folder.
 
